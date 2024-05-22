@@ -4,4 +4,8 @@ flex-container{
 }
 header{
     background-color: #1F2937;
+
+}
+header span{
+     text-decoration: 24px #F9FAF8;
 }
