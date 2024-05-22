@@ -11,5 +11,8 @@ h2{
     background-color:#1F2937;
     color: #E5E7EB;
     font: 48px;
-    font-weight:bolder;
+    font-weight: bolder;
+}
+button{
+    color:#3882F6;
 }
