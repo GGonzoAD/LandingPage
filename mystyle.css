@@ -4,5 +4,11 @@ flex-container{
 }
 header{
     background-color: #1F2937;
-    color: 24px #F9FAF8;
+    color:#F9FAF8;
+    font: 24px;
+}
+h2{
+    background-color:#1F2937;
+    color: #E5E7EB;
+    font: 48px;
 }
