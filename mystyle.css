@@ -21,6 +21,10 @@ flex-container{
     font-family:24px #F9FAF8;
     text-decoration: none;
 }
+.li{
+    list-style: none;
+    display:inline-block
+}
 h2{
     background-color:#1F2937;
     color: #E5E7EB;
