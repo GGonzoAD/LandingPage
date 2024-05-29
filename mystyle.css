@@ -4,10 +4,10 @@ flex-container{
     height:100px;
     align-items:stretch;
 }
-header{
-    background-color: #1F2937;
-    color:#F9FAF8;
-    font: 24px;
+navbar{
+    text-decoration: none;
+    background:#1F2937;
+    font:
 }
 h2{
     background-color:#1F2937;
