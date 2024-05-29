@@ -9,11 +9,13 @@ flex-container{
     background:#1F2937;
     padding-left: 15px;
     padding-right: 15px;
+    text-decoration: none;
 }
 .navdiv{
     display:flex; 
     align-items:center;
     justify-content: space-between;
+    text-decoration: none;
 }
 .logo{
     font-family:24px #F9FAF8;
