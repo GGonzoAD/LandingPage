@@ -4,10 +4,12 @@ flex-container{
     height:100px;
     align-items:stretch;
 }
-navbar{
+.navbar{
     text-decoration: none;
     background:#1F2937;
-    font:
+}
+.logo{
+    font-family:24px #F9FAF8;
 }
 h2{
     background-color:#1F2937;
