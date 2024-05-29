@@ -15,7 +15,7 @@ flex-container{
     align-items:center;
     justify-content: space-between;
 }
-.logo{
+.logo a{
     font-family:24px;
     color: #F9FAF8;
 }
