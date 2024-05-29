@@ -16,11 +16,14 @@ flex-container{
     justify-content: space-between;
 }
 .logo{
-    font-family:24px #F9FAF8;
+    font-family:24px;
+    color: #F9FAF8;
 }
 li{
     list-style: none;
     display:inline-block;
+    font-size:18px;
+    color:#E5E7EB;
 }
 h2{
     background-color:#1F2937;
