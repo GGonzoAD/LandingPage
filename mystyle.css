@@ -24,6 +24,7 @@ flex-container{
 li{
     list-style: none;
     display:inline-block;
+    text-decoration: none;
 }
 h2{
     background-color:#1F2937;
