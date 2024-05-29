@@ -5,11 +5,11 @@ flex-container{
     align-items:stretch;
 }
 .navbar{
-    text-decoration: none;
     background:#1F2937;
 }
 .logo{
     font-family:24px #F9FAF8;
+    text-decoration: none;
 }
 h2{
     background-color:#1F2937;
