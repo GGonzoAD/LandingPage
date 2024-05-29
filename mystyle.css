@@ -4,8 +4,16 @@ flex-container{
     height:100px;
     align-items:stretch;
 }
+
 .navbar{
     background:#1F2937;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.navdiv{
+    display:flex; 
+    align-items:center;
+    justify-content: space-between;
 }
 .logo{
     font-family:24px #F9FAF8;
