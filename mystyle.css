@@ -20,6 +20,7 @@ body{
 .logo a{
     font-family:24px;
     color: #F9FAF8;
+    margin-left: 65px;
 }
 li{
     list-style: none;
@@ -36,7 +37,7 @@ h2{
     font-size: 48px;
     font-weight: bolder;
     display: flex;
-    margin: 10px;
+    margin: 75px;
 }
 h4{
     background-color:#1F2937;
