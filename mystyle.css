@@ -34,6 +34,9 @@ h2{
     font: 48px;
     font-weight: bolder;
 }
+h4{
+    background-color:#1F2937;
+}
 button{
     border-radius: 6px;
     background-color: #3882F6;
