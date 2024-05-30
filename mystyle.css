@@ -52,8 +52,11 @@ button{
     border-radius: 6px;
     background-color: #3882F6;
     color:#ffffff;
-    box-shadow: none;
-    padding: 0px 10px;
+    border:none;
+    padding: 2.5px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    color:#E5E7EB;
 }
 .Secondbox{
     background-color:#F9FAF8;
