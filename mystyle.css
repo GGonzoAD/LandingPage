@@ -4,7 +4,9 @@ flex-container{
     height:100px;
     align-items:stretch;
 }
-
+header{
+    background-color:#1F2937;
+}
 .navbar{
     background:#1F2937;
     padding-left: 15px;
