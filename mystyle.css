@@ -60,7 +60,10 @@ button{
 }
 .Secondbox{
     background-color:#F9FAF8;
+    text-align: center;
+    font-weight:sbold;
 }
-h3{
+.Thirdbox{
     text-align: center;
 }
+
