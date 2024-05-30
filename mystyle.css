@@ -36,6 +36,7 @@ h2{
     font-size: 48px;
     font-weight: bolder;
     display: flex;
+    justify-content: center;
 }
 h4{
     background-color:#1F2937;
