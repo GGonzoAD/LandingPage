@@ -21,6 +21,7 @@ body{
     font-family:24px;
     color: #F9FAF8;
     margin-left: 65px;
+    font-weight: bold;
 }
 li{
     list-style: none;
