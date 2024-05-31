@@ -41,6 +41,9 @@ h2{
     display: flex;
     margin: 75px;
 }
+.topbox{
+    padding-bottom:55px;
+}
 .Placeholder{
  position: relative;
  background-color: #8b8b8b;
@@ -70,11 +73,14 @@ button{
     color:#E5E7EB;
 }
 .Secondbox{
+    position: relative;
     background-color:#fafafa;
     text-align: center;
     font-weight:bolder;
     font-size: 36px;
     color:#1F2937;
+    padding-top: 10px;
+    padding-bottom: 15px;
 }
 .Placeholder2{
   font-size: 14px;
