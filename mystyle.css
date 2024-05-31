@@ -89,7 +89,8 @@ button{
 .Thirdbox{
     text-align: center;
     background-color: #E5E7EB;
-    font: 36px #4a4f57;
+    font: 36px;
+    color: #4a4f57;
     font-style:italic;
     font-weight: none;
 }
