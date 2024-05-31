@@ -42,6 +42,7 @@ h2{
     margin: 75px;
 }
 .Placeholder{
+ position: relative;
  background-color: #8b8b8b;
  font-size: 17px;
  color:#F9FAF8;
@@ -49,6 +50,7 @@ h2{
  width:300px;
  margin-left: 1400px;
  padding: 75px;
+ margin-bottom: 125px;
 }
 h4{
     background-color:#1F2937;
