@@ -85,6 +85,10 @@ button{
 .Placeholder2{
   font-size: 14px;
   font-weight: none;
+  display:flex;
+  margin-left: 520px;
+  gap:75px;
+  color:#4a4f57;
 }
 .Thirdbox{
     text-align: center;
