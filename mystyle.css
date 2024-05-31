@@ -41,6 +41,10 @@ h2{
     display: flex;
     margin: 75px;
 }
+.Placeholder{
+ background-color: #E5E7EB;
+ font-size: 17px;
+}
 h4{
     background-color:#1F2937;
     font-size:17px;
