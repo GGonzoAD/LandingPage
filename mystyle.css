@@ -151,6 +151,7 @@ button{
     color:#F9FAF8;
     background-color: #ffffff;
     padding:50px;
+    
 }
 .box5{
     width: 600px;
@@ -158,5 +159,6 @@ button{
     border: 1px solid black;
     margin-left: 570px;
     background-color: #3882F6;
+    border-radius: 4px;
 }
 
