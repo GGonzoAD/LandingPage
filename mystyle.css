@@ -151,7 +151,8 @@ button{
     color:#F9FAF8;
     background-color: #ffffff;
     padding: 50px;
-    
+    font-size: 18px;
+    font-weight: bold;
 }
 .box5{
     width: 800px;
