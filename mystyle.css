@@ -85,7 +85,7 @@ button{
 .box{
     width: 150px;
     height: 50px;
-    border: 1px #3882F6;
+    background-color: #3882F6;
     padding: 10px;
     margin: 10px;
     margin-left: 500px;
