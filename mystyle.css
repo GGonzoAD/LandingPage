@@ -92,6 +92,36 @@ button{
     margin-left: 515px;
     margin-bottom: -10px;
 }
+.box2{
+    width: 130px;
+    height: 100px;
+    border:3px solid rgb(69, 142, 201);
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 515px;
+    margin-bottom: -10px;
+}
+.box3{
+    width: 130px;
+    height: 100px;
+    border:3px solid rgb(69, 142, 201);
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 515px;
+    margin-bottom: -10px;
+}
+.box4{
+    width: 130px;
+    height: 100px;
+    border:3px solid rgb(69, 142, 201);
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 515px;
+    margin-bottom: -10px;
+}
 .Placeholder2{
   font-size: 14px;
   font-weight: none;
