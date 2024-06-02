@@ -151,12 +151,16 @@ button{
     color:#F9FAF8;
     background-color: #ffffff;
     padding:50px;
+    margin-top: 75px;
 }
 .box5{
-    width: 50px;
+    width: 400px;
     height: 100px;
     border: 1px solid black;
     padding: 10px;
     margin: 10px;
+    margin-left: 670px;
+    margin-bottom: 75px;
+    background-color: #3882F6;
 }
 
