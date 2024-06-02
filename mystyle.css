@@ -134,11 +134,13 @@ button{
 .Thor{
     font-size:18px;
     font-weight:bold;
-    margin-left: 475px;
+    margin-left: 775px;
+    margin-top: -75px;
+    padding: 50px;
 }
 .Thirdbox{
     text-align: center;
-    background-color: #E5E7EB;
+    background-color: #b8b8b8;
     font-size: 36px;
     color: #4a4f57;
     font-style:italic;
