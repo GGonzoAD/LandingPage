@@ -147,7 +147,6 @@ button{
     font-weight: none;
 }
 .SignUpBox{
-    text-align: center;
     color:#F9FAF8;
     background-color: #ffffff;
     padding: 50px;
@@ -165,7 +164,7 @@ button{
     border-radius: 6px;
     background-color: #3882F6;
     color:#ffffff;
-    border:8px white;
+    border:none;
     padding: 2.5px 20px;
     font-size: 14px;
     font-weight: bold;
