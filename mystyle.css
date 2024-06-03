@@ -66,7 +66,6 @@ button{
     border-radius: 6px;
     background-color: #3882F6;
     color:#ffffff;
-    border: 2px solid #ffffff;
     padding: 2.5px 20px;
     font-size: 14px;
     font-weight: bold;
@@ -167,5 +166,6 @@ button{
     padding: 2.5px 20px;
     font-size: 14px;
     font-weight: bold;
+    border: 2px solid #ffffff;
 }
 
