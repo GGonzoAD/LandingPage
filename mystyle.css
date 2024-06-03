@@ -170,4 +170,6 @@ button{
     font-weight: bold;
     border: 2px solid #e7e7e7;
 }
-
+.footer{
+    text-align: center;
+}
